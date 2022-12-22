@@ -1,0 +1,40 @@
+2022-12-20 19:47:57.961 +02:00 [INF] start
+2022-12-20 19:47:58.191 +02:00 [INF] User profile is available. Using 'C:\Users\USER\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-20 19:47:58.266 +02:00 [INF] Now listening on: http://localhost:5000
+2022-12-20 19:47:58.270 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-20 19:47:58.270 +02:00 [INF] Hosting environment: Production
+2022-12-20 19:47:58.271 +02:00 [INF] Content root path: D:\Ekra.Solution\Ekra.API\bin\Release\net7.0\publish
+2022-12-20 19:49:34.684 +02:00 [INF] start
+2022-12-20 19:49:34.920 +02:00 [INF] User profile is available. Using 'C:\Users\USER\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-20 19:49:34.987 +02:00 [INF] Now listening on: http://localhost:5000
+2022-12-20 19:49:34.991 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-20 19:49:34.993 +02:00 [INF] Hosting environment: Production
+2022-12-20 19:49:34.994 +02:00 [INF] Content root path: D:\Ekra.Solution\Ekra.API\bin\Release\net7.0\publish
+2022-12-20 19:49:53.045 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - -
+2022-12-20 19:49:53.094 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - - - 301 0 - 50.8085ms
+2022-12-20 19:49:53.100 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2022-12-20 19:49:53.174 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 74.4602ms
+2022-12-20 19:49:53.207 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2022-12-20 19:49:53.209 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2022-12-20 19:49:53.210 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2022-12-20 19:49:53.235 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-12-20 19:49:53.240 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 143943 text/css 32.7534ms
+2022-12-20 19:49:53.240 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-12-20 19:49:53.243 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-12-20 19:49:53.244 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 34.1018ms
+2022-12-20 19:49:53.250 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 1096145 text/javascript 40.5497ms
+2022-12-20 19:49:53.447 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2022-12-20 19:49:53.466 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - -
+2022-12-20 19:49:53.472 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-12-20 19:49:53.478 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - - - 200 628 image/png 11.9119ms
+2022-12-20 19:49:53.555 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 108.5699ms
+2022-12-20 19:51:26.084 +02:00 [INF] start
+2022-12-20 19:51:26.258 +02:00 [INF] User profile is available. Using 'C:\Users\USER\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-20 19:51:26.328 +02:00 [INF] Now listening on: http://localhost:5000
+2022-12-20 19:51:26.330 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-20 19:51:26.332 +02:00 [INF] Hosting environment: Production
+2022-12-20 19:51:26.333 +02:00 [INF] Content root path: D:\Ekra.Solution\Ekra.API\bin\Release\net7.0\publish
+2022-12-20 19:51:28.708 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2022-12-20 19:51:28.808 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 100.7535ms
+2022-12-20 19:51:28.933 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2022-12-20 19:51:29.034 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 100.7991ms
